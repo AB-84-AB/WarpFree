@@ -1,12 +1,12 @@
 AB-841
 
-warp://188.114.98.186:500/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#WarpF
+warp://[2606:4700:d0::f819:9dd6:2297:1e84]:3138/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#WarpF
 
 
-warp://188.114.98.235:3138/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#WarpE
+warp://[2606:4700:d1::27ff:62d0:407a:a48e]:3138/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#WarpE
 
 
-warp://162.159.192.143:8854/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#WarpD
+warp://[2606:4700:d1::e518:3d5e:e1b4:a48e]:7281/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#WarpD
 
 
 warp://162.159.192.242:4233/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#WarpC
